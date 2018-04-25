@@ -1,2 +1,0 @@
-# ripped
-Rippedcoin
